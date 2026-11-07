@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+app/node_modules/
+app/out/
+_agentic_engineering/
